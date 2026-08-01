@@ -9,3 +9,6 @@ itens = [10, 20]
 total = somar_itens(itens)
 
 print(total)
+
+# entrada explicita, saida explicita
+# nenhum estado escondido
