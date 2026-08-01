@@ -3,4 +3,4 @@ def somar (*numeros):
     return sum (numeros)
 
 somar (1,2)
-somar (1,2,3,4)
+somar (1,2,3,6)
